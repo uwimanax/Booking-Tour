@@ -1,0 +1,13 @@
+.galleryf{
+    display: inline-block;
+    padding: 20px;
+}
+.image-gallery{
+    width: 300px;
+    height: 300px;
+}
+.cancel{
+    padding: atou;
+    margin-left: 20px;
+
+}
